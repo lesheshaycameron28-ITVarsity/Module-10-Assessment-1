@@ -1,0 +1,53 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#getData{ 
+    color: black;
+    background-color: violet;
+    margin-left: 600px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 20%;
+}
+
+#getList{
+    color: black;
+    background-color: violet;
+    text-align: center;
+    border-radius: 20%;
+}
+
+#myForm{
+    color: black;
+    text-align: center;
+}
+
+#submitForm{
+    color: black;
+    background-color: violet;
+    text-align: center;
+    margin-top: 50px;
+    border-radius: 20%;
+    background-color: purple;
+    border: 0;
+    width: 5rem;
+    height: 5rem;
+    font-size: 1rem;
+}
+
+#greeting{
+    margin-top: 10px;
+    color: violet;
+    text-align: center;
+}
+
+#message{
+    color: violet;
+    text-align: center;
+}
+
+#posts{
+    color: violet;
+    margin-left: 600px;
+}
